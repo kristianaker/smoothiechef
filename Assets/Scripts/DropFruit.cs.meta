@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2fe7feff60166a445a8c9052847e1c50
+timeCreated: 1466775073
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - prefab: {instanceID: 0}
+  - postfab: {instanceID: 0}
+  - Apple: {instanceID: 0}
+  - Grape: {instanceID: 0}
+  - Lemon: {instanceID: 0}
+  - Strawberry: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
